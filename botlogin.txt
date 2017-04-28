@@ -1,0 +1,14 @@
+user=%BOT_USERNAME%
+oauth=%BOT_OAUTH%
+apioauth=
+clientid=
+channel=%BOT_CHANNEL%
+owner=%BOT_OWNER%
+baseport=25000
+hostname=
+port=0
+msglimit30=0.0
+datastore=
+youtubekey=
+webenable=
+musicenable=
